@@ -3,14 +3,14 @@
 
 ---
 
-###  About Me
+### 🧠 About Me
 I'm a passionate **Software Engineer from Rwanda** who loves building impactful and intelligent systems — from backend platforms to IoT-powered devices.  
 My work bridges **software engineering, electronics, and artificial intelligence**, with a focus on solving real-world problems through clean architecture and automation.
 
-- 🔭 I’m currently working on **Coin d'Affaire** — a digital business platform.
-- 🌱 Also building **Cheemba**, a smart waste management system integrating IoT and automation.
-- 💡 I love developing with **NestJS**, **PostgreSQL**, and **React**, and I’m always exploring **AI & automation**.
-- 🧠 I enjoy solving deep problems in **backend engineering**, **data flow design**, and **hardware-software integration**.
+- 🔭 I’m currently working on **Coin d'Affaire** — a digital business platform.  
+- 🌱 Also building **Cheemba**, a smart waste management system integrating IoT and automation.  
+- 💡 I love developing with **NestJS**, **PostgreSQL**, and **React**, and I’m always exploring **AI & automation**.  
+- 🧠 I enjoy solving deep problems in **backend engineering**, **data flow design**, and **hardware-software integration**.  
 - ⚙️ OS I use daily: **Kali Linux** 🐧  
 - 📫 Reach me at: **izerejoshua.dev@gmail.com**
 
@@ -58,6 +58,8 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
+<h2 align="center" >🌍 Explore my work: https://izere-joshua.netlify.app </h2>
+  
 ### 🧩 Featured Projects
 - 🗑️ **Cheemba** — A smart waste management system using IoT & automation for waste segregation and monitoring.  
 - 💼 **Coin d'Affaire** — A platform connecting small businesses and clients with secure digital transactions.  
@@ -81,6 +83,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ### 🌐 Connect With Me
 <p align="left">
+<a href="https://izere-joshua.netlify.app" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/izere-joshua" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://twitter.com/i_josh_dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
 <a href="https://github.com/i-josh-pro-grammin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
@@ -88,4 +91,4 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
-⭐ **“Code is my language, innovation is my mission.”**  
+⭐ **“Code is my language, innovation is my mission.”**
