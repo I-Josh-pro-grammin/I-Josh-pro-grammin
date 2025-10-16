@@ -8,7 +8,7 @@ I'm a passionate **Software Engineer from Rwanda** who loves building impactful 
 My work bridges **software engineering, electronics, and artificial intelligence**, with a focus on solving real-world problems through clean architecture and automation.
 
 - 🔭 I’m currently working on **Coin d'Affaire** — a digital business platform.  
-- 🌱 Also building **Cheemba**, a smart waste management system integrating IoT and automation.  
+- 🌱 Also building **Brainly Code**, an interactive online programming tutoring platform.  
 - 💡 I love developing with **NestJS**, **PostgreSQL**, and **React**, and I’m always exploring **AI & automation**.  
 - 🧠 I enjoy solving deep problems in **backend engineering**, **data flow design**, and **hardware-software integration**.  
 - ⚙️ OS I use daily: **Kali Linux** 🐧  
@@ -29,7 +29,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 </p>
 
 #### ⚡ Frontend
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="ReactJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -39,7 +39,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 </p>
 
 #### ⚙️ DevOps & Tools
-<p align="left">
+<p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
@@ -47,7 +47,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 </p>
 
 #### 🤖 Embedded Systems & AI
-<p align="left">
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
@@ -61,7 +61,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 <h2 align="center" >🌍 Explore my work: https://izere-joshua.netlify.app </h2>
   
 ### 🧩 Featured Projects
-- 🗑️ **Cheemba** — A smart waste management system using IoT & automation for waste segregation and monitoring.  
+- 🗑️ **Brainly Code** — An online programming e-learning platform with interactivity for students and feedback.  
 - 💼 **Coin d'Affaire** — A platform connecting small businesses and clients with secure digital transactions.  
 
 ---
