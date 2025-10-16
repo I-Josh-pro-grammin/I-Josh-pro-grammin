@@ -7,11 +7,12 @@
 I'm a passionate **Software Engineer from Rwanda** who loves building impactful and intelligent systems — from backend platforms to IoT-powered devices.  
 My work bridges **software engineering, electronics, and artificial intelligence**, with a focus on solving real-world problems through clean architecture and automation.
 
-- 🔭 I’m currently working on **Coin d'Affaire** — a digital business platform.  
-- 🌱 Also building **Brainly Code**, an interactive online programming tutoring platform.  
-- 💡 I love developing with **NestJS**, **PostgreSQL**, and **React**, and I’m always exploring **AI & automation**.  
-- 🧠 I enjoy solving deep problems in **backend engineering**, **data flow design**, and **hardware-software integration**.  
-- ⚙️ OS I use daily: **Kali Linux** 🐧  
+- 💼 I’m currently working at **Blink Technologies** as a **Software Engineer**, building scalable digital solutions and driving innovation through automation.  
+- 🔭 I’m also developing **Coin d'Affaire** — a digital business platform connecting entrepreneurs and clients.  
+- 🌱 Building **Brainly Code**, an interactive online programming tutoring platform for the next generation of developers.  
+- 💡 I’m passionate about **NestJS**, **PostgreSQL**, **React**, and exploring the future of **AI-driven systems**.  
+- 🧠 I love tackling deep challenges in **backend engineering**, **data flow design**, and **hardware-software integration**.  
+- ⚙️ My daily OS: **Kali Linux** 🐧  
 - 📫 Reach me at: **izerejoshua.dev@gmail.com**
 
 ---
@@ -58,11 +59,12 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
-<h2 align="center" >🌍 Explore my work: https://izere-joshua.netlify.app </h2>
+<h2 align="center">🌍 Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
   
 ### 🧩 Featured Projects
-- 🗑️ **Brainly Code** — An online programming e-learning platform with interactivity for students and feedback.  
-- 💼 **Coin d'Affaire** — A platform connecting small businesses and clients with secure digital transactions.  
+- 🧠 **Brainly Code** — An interactive e-learning platform for programming with real-time feedback and challenges.  
+- 💼 **Coin d'Affaire** — A smart digital business platform connecting small enterprises with clients securely.  
+- ⚙️ **Cheemba** — An automated IoT waste management system integrating sensors, AI, and cloud connectivity.  
 
 ---
 
@@ -72,23 +74,23 @@ My work bridges **software engineering, electronics, and artificial intelligence
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-josh-pro-grammin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=i-josh-pro-grammin&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-josh-pro-grammin&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-josh-pro-grammin&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-<a href="https://izere-joshua.netlify.app" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/izere-joshua" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://twitter.com/i_josh_dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
-<a href="https://github.com/i-josh-pro-grammin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
+<p align="center">
+<a href="https://izere-joshua.netlify.app" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/izere-joshua" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://twitter.com/i_josh_dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://github.com/i-josh-pro-grammin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
 </p>
 
 ---
 
-⭐ **“Code is my language, innovation is my mission.”**
+⭐ <em>“Code is my language, innovation is my mission.”</em>
