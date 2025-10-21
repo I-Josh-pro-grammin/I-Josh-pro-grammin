@@ -64,7 +64,6 @@ My work bridges **software engineering, electronics, and artificial intelligence
 ### 🧩 Featured Projects
 - 🧠 **Brainly Code** — An interactive e-learning platform for programming with real-time feedback and challenges.  
 - 💼 **Coin d'Affaire** — A smart digital business platform connecting small enterprises with clients securely.  
-- ⚙️ **Cheemba** — An automated IoT waste management system integrating sensors, AI, and cloud connectivity.  
 
 ---
 
