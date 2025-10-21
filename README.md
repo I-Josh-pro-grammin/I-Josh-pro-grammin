@@ -10,7 +10,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 - 💼 I’m currently working at **Blink Technologies** as a **Software Engineer**, building scalable digital solutions and driving innovation through automation.  
 - 🔭 I’m also developing **Coin d'Affaire** — a digital business platform connecting entrepreneurs and clients.  
 - 🌱 Building **Brainly Code**, an interactive online programming tutoring platform for the next generation of developers.  
-- 💡 I’m passionate about **NestJS**, **PostgreSQL**, **React**, and exploring the future of **AI-driven systems**.  
+- 💡 I’m passionate about **NestJS**, **PostgreSQL**, **Java & Spring-Boot**, **React**, **MongoDB** and **Django** and exploring the future of **AI-driven systems**.  
 - 🧠 I love tackling deep challenges in **backend engineering**, **data flow design**, and **hardware-software integration**.  
 - ⚙️ My daily OS: **Kali Linux** 🐧  
 - 📫 Reach me at: **izerejoshua.dev@gmail.com**
