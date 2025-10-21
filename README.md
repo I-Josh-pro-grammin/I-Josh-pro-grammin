@@ -4,7 +4,8 @@
 ---
 
 ### 🧠 About Me
-I'm a passionate **Software Engineer from Rwanda** who loves building impactful and intelligent systems — from backend platforms to IoT-powered devices.  
+I'm a passionate **Software Engineer from Rwanda** who loves building impactful and intelligent systems — from backend platforms to IoT-powered devices. 
+And I am currently working at Blink Technologies as a Backend Developer.
 My work bridges **software engineering, electronics, and artificial intelligence**, with a focus on solving real-world problems through clean architecture and automation.
 
 - 💼 I’m currently working at **Blink Technologies** as a **Software Engineer**, building scalable digital solutions and driving innovation through automation.  
