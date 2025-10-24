@@ -14,7 +14,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 - 💡 I’m passionate about **NestJS**, **PostgreSQL**, **Java & Spring-Boot**, **React**, **MongoDB** and **Django** and exploring the future of **AI-driven systems**.  
 - 🧠 I love tackling deep challenges in **backend engineering**, **data flow design**, and **hardware-software integration**.  
 - ⚙️ My daily OS: **Kali Linux** 🐧  
-- 📫 Reach me at: **izerejoshua.dev@gmail.com**
+- 📫 Reach me at: **izerejoshua94@gmail.com**
 
 ---
 
