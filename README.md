@@ -19,7 +19,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="ExpressJS"/>
