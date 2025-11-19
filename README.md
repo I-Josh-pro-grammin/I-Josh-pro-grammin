@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me
+### <h3 align="center">🧠 About Me</h3>
 I'm a passionate **Software Engineer from Rwanda** who loves building impactful and intelligent systems — from backend platforms to IoT-powered devices. 
 I am currently working at Blink Technologies as a Backend Developer.
 My work bridges **software engineering, electronics, and artificial intelligence**, with a focus on solving real-world problems through clean architecture and automation.
@@ -18,7 +18,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
-### 🛠️ Tech Stack
+### <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
@@ -48,13 +48,13 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 <h2 align="center">🌍 Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
   
-### 🧩 Featured Projects
+### <h3 align="center">🧩 Featured Projects</h3>
 - 🧠 **Brainly Code** — An interactive e-learning platform for programming with real-time feedback and challenges.  
 - 💼 **Coin d'Affaire** — A smart digital business platform connecting small enterprises with clients securely.  
 
 ---
 
-### 🏆 GitHub Highlights
+### 🏆 GitHub Highlights<h3 align="center">🧠 About Me</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=i-josh-pro-grammin&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
@@ -69,7 +69,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
-### 🌐 Connect With Me
+### <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
 <a href="https://izere-joshua.netlify.app" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/izere-joshua" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
