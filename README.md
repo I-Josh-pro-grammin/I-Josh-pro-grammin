@@ -49,8 +49,8 @@ My work bridges **software engineering, electronics, and artificial intelligence
 <h2 align="center">🌍 Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
   
 ### <h3 align="center">🧩 Featured Projects</h3>
-- 🧠 **Brainly Code** — An interactive e-learning platform for programming with real-time feedback and challenges.  
-- 💼 **Coin d'Affaire** — A smart digital business platform connecting small enterprises with clients securely.  
+- 🧠 **Brainly Code** (<a> href="https://brainlycode.dpdns.org" target="_blank">link<a>) — An interactive e-learning platform for programming with real-time feedback and challenges.  
+- 💼 **Akaguriro** (<a> href="https://akaguriro.com" target="_blank">link<a>) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
 
 ---
 
