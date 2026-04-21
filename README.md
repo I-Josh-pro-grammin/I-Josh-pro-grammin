@@ -81,8 +81,8 @@ My work bridges **software engineering, electronics, and artificial intelligence
 ### <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
 <a href="https://izere-joshua.netlify.app" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/izere-joshua" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://twitter.com/i_josh_dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshua-izere-35a4123b8" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<!-- <a href="https://twitter.com/i_josh_dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a> -->
 <a href="https://github.com/i-josh-pro-grammin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
 </p>
 
