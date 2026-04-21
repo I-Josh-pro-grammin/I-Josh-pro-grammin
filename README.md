@@ -44,7 +44,6 @@ My work bridges **software engineering, electronics, and artificial intelligence
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="display:inline-block; margin:6px;" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="display:inline-block; margin:6px;" alt="Java"/>
 </p>
----
 
 <h2 align="center">🌍 Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
   
