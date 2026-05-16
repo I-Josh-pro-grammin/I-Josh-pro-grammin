@@ -59,7 +59,11 @@ My work bridges **software engineering, electronics, and artificial intelligence
   
 ### <h3 align="center">🧩 Featured Projects</h3>
 - 🧠 **Brainly Code** (https://brainlycode.dpdns.org) — An interactive e-learning platform for programming with real-time feedback and challenges.  
-- 💼 **Akaguriro** (https://akaguriroo.com) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
+- 💼 **AKAGURIRO** (https://akaguriroo.com) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
+- 💼 **IMOVE app** (https://i-move-admin-frontend.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
+- 💼 **BORA AI** (https://bora-ai-web.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
+- 💼 **VANTAGE** (https://vantage-frontend-beta.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
+- 💼 **ICODE** (https://icode-delta.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
 
 ---
 
