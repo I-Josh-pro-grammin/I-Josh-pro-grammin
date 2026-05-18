@@ -56,18 +56,41 @@ My work bridges **software engineering, electronics, and artificial intelligence
 ---
 
 ### <h2 align="center">🌍 Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
-  
+
 ### <h3 align="center">🧩 Featured Projects</h3>
-- 🧠 **Brainly Code** (https://brainlycode.dpdns.org) — An interactive e-learning platform for programming with real-time feedback and challenges.  
-- 💼 **AKAGURIRO** (https://akaguriroo.com) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
-- 💼 **IMOVE app** (https://i-move-admin-frontend.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
-- 💼 **BORA AI** (https://bora-ai-web.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
-- 💼 **VANTAGE** (https://vantage-frontend-beta.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
-- 💼 **ICODE** (https://icode-delta.vercel.app) — A smart digital business platform connecting small enterprises with clients securely in Burundi.  
+
+- 🧠 **Brainly Code** — <a href="https://brainlycode.dpdns.org" target="_blank">brainlycode.dpdns.org</a>  
+  Real-time analytics and interactive programming learning platform with challenges, feedback systems, and high-performance UX.  
+  **Tech:** React · NestJS · PostgreSQL · Docker
+
+- 🛒 **Akaguriro** — <a href="https://akaguriroo.com" target="_blank">akaguriroo.com</a>  
+  Full-stack e-commerce platform designed for the Burundian market with optimized performance and localized business workflows.  
+  **Tech:** TypeScript · Supabase · Vite
+
+- 📱 **IMove App** — <a href="https://i-move-admin-frontend.vercel.app" target="_blank">i-move-admin-frontend.vercel.app</a>  
+  Mobile application for finding nearby riders with real-time booking, geolocation tracking, and seamless transportation experiences.  
+  **Tech:** React Native · Expo · MongoDB
+
+- 🎨 **I CODE Website** — <a href="https://icode-delta.vercel.app" target="_blank">icode-delta.vercel.app</a>  
+  Modern futuristic company website built for a Rwandan tech company focused on scalable software systems and digital solutions.  
+  **Tech:** Next.js · Node.js · TailwindCSS
+
+- 🎓 **Vantage** — <a href="https://vantage-frontend-beta.vercel.app" target="_blank">vantage-frontend-beta.vercel.app</a>  
+  Career guidance platform that helps students identify optimal career paths using the RIASEC model and intelligent recommendations.  
+  **Tech:** React Native · AI · Mobile Development
+
+- 🤖 **Bora AI** — <a href="https://bora-ai-web.vercel.app" target="_blank">bora-ai-web.vercel.app</a>  
+  AI-powered recruitment platform that automates candidate screening and provides accurate hiring insights for recruiters.  
+  **Tech:** OpenAI · Next.js · TypeScript
 
 ---
 
+### 🚀 Areas of Focus
+`AI Systems` • `Full-Stack Development` • `Mobile Apps` • `Web Platforms` • `E-commerce` • `Cloud & DevOps` • `Developer Tools`
 ### 🏆 GitHub Highlights<h3 align="center">🧠 About Me</h3>
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=i-josh-pro-grammin&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
