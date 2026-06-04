@@ -13,7 +13,6 @@ My work bridges **software engineering, electronics, and artificial intelligence
 - 🌱 Building **Brainly Code**, an interactive online programming tutoring platform for the next generation of developers.  
 - 💡 I’m passionate about **NestJS**, **PostgreSQL**, **Java & Spring-Boot**, **React**, **MongoDB** and **Django** and exploring the future of **AI-driven systems**.  
 - 🧠 I love tackling deep challenges in **backend engineering**, **data flow design**, and **hardware-software integration**.  
-- ⚙️ My daily OS: **Windows OS** 🐧  
 - 📫 Reach me at: **izerejoshua94@gmail.com**
 
 ---
