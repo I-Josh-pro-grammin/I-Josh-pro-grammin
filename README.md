@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm IZERE Joshua</h1>
+<h1 align="center">👋 Hi, I'm Joshua Izere</h1>
 <h3 align="center">Software Engineer | Backend Developer | Embedded Systems & AI Enthusiast</h3>
 
 ---
