@@ -3,7 +3,7 @@
 
 ---
 
-### <h3 align="center">🧠 About Me</h3>
+### <h3 align="center">About Me</h3>
 I'm a passionate **Software Engineer from Rwanda** who loves building impactful and intelligent systems — from backend platforms to IoT-powered devices. 
 I am currently working at Blink Technologies as a Backend Developer.
 My work bridges **software engineering, electronics, and artificial intelligence**, with a focus on solving real-world problems through clean architecture and automation.
@@ -17,7 +17,7 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
-### <h3 align="center">🛠️ Tech Stack</h3>
+### <h3 align="center">Tech Stack</h3>
 
 <table align="center">
   <tr>
@@ -54,9 +54,9 @@ My work bridges **software engineering, electronics, and artificial intelligence
 
 ---
 
-### <h2 align="center">🌍 Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
+### <h2 align="center">Explore my work: <a href="https://izere-joshua.netlify.app" target="_blank">izere-joshua.netlify.app</a></h2>
 
-### <h3 align="center">🧩 Featured Projects</h3>
+### <h3 align="center">Featured Projects</h3>
 
 - 🧠 **Brainly Code** — <a href="https://brainlycode.dpdns.org" target="_blank">brainlycode.dpdns.org</a>  
   Real-time analytics and interactive programming learning platform with challenges, feedback systems, and high-performance UX.  
